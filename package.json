@@ -12,6 +12,11 @@
     "type": "git",
     "url": "https://live627@github.com/live627/typeahead.git"
   },
+  "keywords": [
+    "autosuggest",
+    "typeahead",
+    "jquery",
+    "jquery-plugin"
   ],
   "author": "live627 <live627@gmail.com>",
   "license": "MIT",
