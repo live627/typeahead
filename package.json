@@ -12,11 +12,14 @@
     "type": "git",
     "url": "https://live627@github.com/live627/typeahead.git"
   },
-  "dependencies": {
-    "dom": "0.0.2",
-    "xtend": "1.0.3"
   ],
   "author": "live627 <live627@gmail.com>",
+  "devDependencies": {
+    "less": "^2.5.0",
+    "uglify-js": "^2.4.20",
+    "watch": "^0.16.0"
   },
-  "style": "./style.css",
+  "dependencies": {
+    "mkdirp": "^0.5.0"
+  }
 }
