@@ -2,7 +2,6 @@
   "name": "typeahead",
   "version": "0.2.0",
   "description": "typeahead component",
-  "main": "typeahead.js",
   "main": "src/typeahead.js",
   "scripts": {
     "build": "mkdirp build && (uglifyjs --compress booleans  --mangle --reserved $ --source-map build/typeahead.min.js.map -- src/typeahead.js > build/typeahead.min.js & lessc src/typeahead.less > build/typeahead.css)",
@@ -11,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/shtylman/typeahead.git"
+    "url": "https://live627@github.com/live627/typeahead.git"
   },
   "dependencies": {
     "dom": "0.0.2",
