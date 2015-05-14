@@ -15,6 +15,10 @@
   ],
   "author": "live627 <live627@gmail.com>",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/live627/typeahead/issues"
+  },
+  "homepage": "https://github.com/live627/typeahead",
   "devDependencies": {
     "less": "^2.5.0",
     "uglify-js": "^2.4.20",
